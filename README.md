@@ -4,10 +4,5 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## 🚀 Live Demo
 
-[View the live site here](https://your-username.github.io/portfolio/)  
-*(Replace with your actual deployed link)*
-
----
-
-## 📁 Project Structure
+[View the live site here](https://qinisomavuso.github.io/portfolio/)  
 
